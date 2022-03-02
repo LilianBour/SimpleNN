@@ -1,0 +1,5 @@
+#exclude virtual env 
+venv/*
+Data/*
+.idea/*
+__pycache__/*

@@ -1,0 +1,2 @@
+Adding hidden layers leads to 0.004375 being a very high learning rate and overfitting. 
+To avoid this Regularization could be a solution.
